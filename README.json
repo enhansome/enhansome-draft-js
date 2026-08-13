@@ -1,0 +1,882 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React-Draft-Wyiswyg",
+          "description": "A WYISWYG editor, with various text editing options and corresponding HTML generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-01T09:52:19Z",
+            "owner": "jpuri",
+            "repo": "react-draft-wysiwyg",
+            "stars": 6464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Braft",
+          "description": "Extensible Draft JS Editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-19T02:15:52Z",
+            "owner": "margox",
+            "repo": "braft-editor",
+            "stars": 4588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React-RTE",
+          "description": "A full-featured textarea replacement similar to CKEditor or TinyMCE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-17T17:02:20Z",
+            "owner": "sstur",
+            "repo": "react-rte",
+            "stars": 2863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Medium Draft",
+          "description": "Medium-like rich text editor with a focus on keyboard shortcuts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-15T12:31:51Z",
+            "owner": "brijeshb42",
+            "repo": "medium-draft",
+            "stars": 1715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Megadraft",
+          "description": "A rich text editor with a nice default base of plugins and extensibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-13T18:03:59Z",
+            "owner": "globocom",
+            "repo": "megadraft",
+            "stars": 1223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dante 2",
+          "description": "Just another Medium clone built on top of DraftJs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-24T04:01:47Z",
+            "owner": "michelson",
+            "repo": "dante2",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draftail",
+          "description": "A configurable rich text editor based on Draft.js, built for Wagtail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T15:27:46Z",
+            "owner": "wagtail",
+            "repo": "draftail",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft WYSIWYG",
+          "description": "WYSIWYG editor that with drag&drop, resizing & tooltips.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-04T10:21:05Z",
+            "owner": "bkniffler",
+            "repo": "draft-wysiwyg",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Notes Clone(ish)",
+          "description": "Rich text editor similar to Facebook notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-22T21:58:08Z",
+            "owner": "andrewcoelho",
+            "repo": "react-text-editor",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Last Draft",
+          "description": "A Draft editor built with Draft.js plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-08T11:30:16Z",
+            "owner": "ld-x",
+            "repo": "last-draft",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Z-Editor",
+          "description": "Online Z-notations editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T08:29:29Z",
+            "owner": "Z-Editor",
+            "repo": "Z-Editor",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Editor",
+          "description": "A Rich text editor inspired by Medium & Facebook Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-10-20T22:24:53Z",
+            "owner": "AlastairTaft",
+            "repo": "draft-js-editor",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Standalone Editors Built on Draft.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Draft.js Plugins",
+          "description": "A Plugin architecture on top of Draft.js",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Markdown Shortcuts",
+              "description": "Markdown syntax shortcuts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-05-19T22:04:45Z",
+                "owner": "ngs",
+                "repo": "draft-js-markdown-shortcuts-plugin",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Buttons",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T11:19:56Z",
+                "owner": "ld-x",
+                "repo": "last-draft-js-plugins",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Color Picker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T11:19:56Z",
+                "owner": "ld-x",
+                "repo": "last-draft-js-plugins",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embed",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T11:19:56Z",
+                "owner": "ld-x",
+                "repo": "last-draft-js-plugins",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EmojiPicker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T11:19:56Z",
+                "owner": "ld-x",
+                "repo": "last-draft-js-plugins",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GifPicker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T11:19:56Z",
+                "owner": "ld-x",
+                "repo": "last-draft-js-plugins",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T11:19:56Z",
+                "owner": "ld-x",
+                "repo": "last-draft-js-plugins",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Modal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T11:19:56Z",
+                "owner": "ld-x",
+                "repo": "last-draft-js-plugins",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sidebar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T11:19:56Z",
+                "owner": "ld-x",
+                "repo": "last-draft-js-plugins",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toolbar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T11:19:56Z",
+                "owner": "ld-x",
+                "repo": "last-draft-js-plugins",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prism",
+              "description": "Syntax highlight code blocks with Prism.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2021-07-04T14:22:07Z",
+                "owner": "withspectrum",
+                "repo": "draft-js-prism-plugin",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Single Line",
+              "description": "Restrict to a single line of input.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-12-04T04:08:48Z",
+                "owner": "icelab",
+                "repo": "draft-js-single-line-plugin",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Block Breakout",
+              "description": "Break out of block types as you type.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-10-10T12:25:03Z",
+                "owner": "icelab",
+                "repo": "draft-js-block-breakout-plugin",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RichButtons",
+              "description": "Add and customize rich formatting buttons.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-09-17T14:08:03Z",
+                "owner": "jasonphillips",
+                "repo": "draft-js-richbuttons-plugin",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Katex",
+              "description": "Insert and render LaTeX using Katex.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-10-05T15:31:22Z",
+                "owner": "letranloc",
+                "repo": "draft-js-katex-plugin",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "List",
+              "description": "Automatic list creation, nested lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2020-07-18T03:47:04Z",
+                "owner": "samuelmeuli",
+                "repo": "draft-js-list-plugin",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mathjax",
+              "description": "Edit math using (La)TeX rendered by Mathjax.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-05-09T17:01:17Z",
+                "owner": "tarjei",
+                "repo": "draft-js-mathjax-plugin",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Divider",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-01-18T15:31:42Z",
+                "owner": "simsim0709",
+                "repo": "draft-js-plugins",
+                "stars": 2
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-03-18T00:40:25Z",
+            "owner": "draft-js-plugins",
+            "repo": "draft-js-plugins",
+            "stars": 4091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Prism",
+          "description": "Highlight code blocks using Prism.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-05T12:46:59Z",
+            "owner": "SamyPesse",
+            "repo": "draft-js-prism",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Typeahead",
+          "description": "Support for typeahead functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-03-23T18:24:46Z",
+            "owner": "dooly-ai",
+            "repo": "draft-js-typeahead",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft Extend",
+          "description": "Build extensible Draft.js editors with configurable plugins and integrated serialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-25T23:23:21Z",
+            "owner": "HubSpot",
+            "repo": "draft-extend",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Code",
+          "description": "A collection of low-level utilities for nicer code editing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-22T02:35:52Z",
+            "owner": "SamyPesse",
+            "repo": "draft-js-code",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Basic HTML Editor",
+          "description": "Accept html as its input format, and return html to an onChange.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-24T04:10:38Z",
+            "owner": "dburrows",
+            "repo": "draft-js-basic-html-editor",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Regex",
+          "description": "The set of flexible helpers, like regex, blank lines preventing and pasted HTML clearing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-02T23:54:01Z",
+            "owner": "YozhikM",
+            "repo": "draft-regex",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Gutter",
+          "description": "Compliments line number gutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-28T04:32:34Z",
+            "owner": "seejamescode",
+            "repo": "draft-js-gutter",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Annotatable",
+          "description": "Out of the box annotation system for Draft.js with support for user-created annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-13T01:10:40Z",
+            "owner": "cltk",
+            "repo": "annotations",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Plugins and Decorators Built for Draft.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Draft.js: Export ContentState to HTML",
+          "description": "Export ContentState to HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-22T18:46:33Z",
+            "owner": "sstur",
+            "repo": "draft-js-utils",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft Convert",
+          "description": "Extensibly serialize & deserialize Draft.js ContentState with HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-25T23:23:33Z",
+            "owner": "HubSpot",
+            "repo": "draft-convert",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native Draft.js Render",
+          "description": "A React Native render for Draft.js model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-24T19:29:15Z",
+            "owner": "globocom",
+            "repo": "react-native-draftjs-render",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DraftJs to HTML",
+          "description": "Library for generating HTML for DraftJS editor content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-09T13:33:58Z",
+            "owner": "jpuri",
+            "repo": "draftjs-to-html",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DraftJS Utils",
+          "description": "Set of utility functions for DraftJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T21:37:50Z",
+            "owner": "jpuri",
+            "repo": "draftjs-utils",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redraft",
+          "description": "Renders the result of Draft.js convertToRaw using provided callbacks, works well with React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T02:40:57Z",
+            "owner": "lokiuz",
+            "repo": "redraft",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML to DraftJS",
+          "description": "Convert plain HTML to DraftJS Editor content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-10T23:30:57Z",
+            "owner": "jpuri",
+            "repo": "html-to-draftjs",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js exporter (Python)",
+          "description": "Library to convert Draft.js raw ContentState to HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:03:19Z",
+            "owner": "wagtail",
+            "repo": "draftjs_exporter",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js filters",
+          "description": "Filter Draft.js content to preserve only the formatting you allow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T20:27:22Z",
+            "owner": "thibaudcolas",
+            "repo": "draftjs-filters",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BackDraft.js",
+          "description": "Function to turn a rawContentBlock into a marked-up string.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-02-23T08:23:52Z",
+            "owner": "evanc",
+            "repo": "backdraft-js",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js AST Exporter",
+          "description": "Export content into an abstract syntax tree (AST).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-04T04:08:46Z",
+            "owner": "icelab",
+            "repo": "draft-js-ast-exporter",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Exporter",
+          "description": "Export and format the content from Draft.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-21T20:49:06Z",
+            "owner": "rkpasia",
+            "repo": "draft-js-exporter",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Multidecorators",
+          "description": "Combine multiple decorators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-16T15:52:26Z",
+            "owner": "SamyPesse",
+            "repo": "draft-js-multidecorators",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js SimpleDecorator",
+          "description": "Easily create flexible decorators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-13T09:16:32Z",
+            "owner": "Soreine",
+            "repo": "draft-js-simpledecorator",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js Exporter (Go)",
+          "description": "Export Draft.js content state into HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-08T21:18:32Z",
+            "owner": "ejilay",
+            "repo": "draftjs",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js exporter (Ruby)",
+          "description": "Export Draft.js content state into HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-04-11T16:50:08Z",
+            "owner": "ignitionworks",
+            "repo": "draftjs_exporter",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js AST Importer",
+          "description": "Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-04T04:08:45Z",
+            "owner": "icelab",
+            "repo": "draft-js-ast-importer",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft.js: Export ContentState to PDFMake",
+          "description": "Export ContentState to PDFMake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-04T19:23:21Z",
+            "owner": "datagenno",
+            "repo": "draft-js-export-pdfmake",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sticky",
+          "description": "A simple note taking and clipboard managing desktop application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-19T10:48:56Z",
+            "owner": "nadunindunil",
+            "repo": "sticky",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Common Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Draft-js Samples - An app with examples and code explanations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-09-12T07:36:56Z",
+            "owner": "Mair",
+            "repo": "react-meetup-draftjs",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draft drag and drop demo for mobile browser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-26T03:06:00Z",
+            "owner": "jan4984",
+            "repo": "draft-dnd-example",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Live Demos"
+    },
+    {
+      "description": "To the extent possible under law, Nikolaus Graf has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:59:16.642Z",
+    "original_repository": "nikgraf/awesome-draft-js",
+    "original_repository_sha": "f1262ec2efacbdb4ca3da3a7d386b55e4911572f",
+    "enhanced_repository": "enhansome/enhansome-draft-js",
+    "enhanced_repository_description": null,
+    "title": "Awesome Draft.js with stars"
+  }
+}
