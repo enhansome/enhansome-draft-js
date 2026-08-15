@@ -14,7 +14,7 @@
             "last_commit": "2024-12-01T09:52:19Z",
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6464
+            "stars": 6465
           }
         },
         {
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T13:54:55.802Z",
+    "last_updated": "2026-08-15T13:09:26.956Z",
     "original_repository": "nikgraf/awesome-draft-js",
     "original_repository_sha": "f1262ec2efacbdb4ca3da3a7d386b55e4911572f",
     "enhanced_repository": "enhansome/enhansome-draft-js",
