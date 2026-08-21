@@ -28,7 +28,7 @@
 
 ## Standalone Editors Built on Draft.js
 
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,465 | 🐛 752 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,466 | 🐛 752 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Braft](https://github.com/margox/braft-editor) ⭐ 4,587 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
 * [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,863 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) ⭐ 1,715 | 🐛 51 | 🌐 JavaScript | 📅 2026-01-15 - Medium-like rich text editor with a focus on keyboard shortcuts.
@@ -95,7 +95,7 @@
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) ⭐ 285 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-04 - Set of utility functions for DraftJS.
 * [Redraft](https://github.com/lokiuz/redraft) ⭐ 281 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-04 - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
 * [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) ⭐ 163 | 🐛 74 | 🌐 HTML | 📅 2023-01-10 - Convert plain HTML to DraftJS Editor content.
-* [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) ⭐ 84 | 🐛 3 | 🌐 Python | 📅 2026-08-17 - Library to convert Draft.js raw ContentState to HTML
+* [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) ⭐ 84 | 🐛 3 | 🌐 Python | 📅 2026-08-21 - Library to convert Draft.js raw ContentState to HTML
 * [Draft.js filters](https://github.com/thibaudcolas/draftjs-filters) ⭐ 56 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-10 - Filter Draft.js content to preserve only the formatting you allow.
 * [BackDraft.js](https://github.com/evanc/backdraft-js) ⚠️ Archived - Function to turn a rawContentBlock into a marked-up string.
 * [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-04 - Export content into an abstract syntax tree (AST).
@@ -154,4 +154,4 @@ To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
