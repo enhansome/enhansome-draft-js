@@ -472,7 +472,7 @@
             "last_commit": "2026-03-18T00:40:25Z",
             "owner": "draft-js-plugins",
             "repo": "draft-js-plugins",
-            "stars": 4091
+            "stars": 4090
           }
         },
         {
@@ -715,7 +715,7 @@
             "archived": false,
             "id": 62028497,
             "language": "Python",
-            "last_commit": "2026-08-22T09:35:04Z",
+            "last_commit": "2026-08-22T21:30:08Z",
             "owner": "wagtail",
             "repo": "draftjs_exporter",
             "stars": 84
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:10:06.394Z",
+    "last_updated": "2026-08-23T13:11:42.172Z",
     "original_repository": "nikgraf/awesome-draft-js",
     "original_repository_id": 53355489,
     "original_repository_sha": "f1262ec2efacbdb4ca3da3a7d386b55e4911572f",
