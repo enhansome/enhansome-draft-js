@@ -28,7 +28,7 @@
 
 ## Standalone Editors Built on Draft.js
 
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,466 | 🐛 752 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,467 | 🐛 752 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Braft](https://github.com/margox/braft-editor) ⭐ 4,587 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
 * [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,863 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) ⭐ 1,715 | 🐛 51 | 🌐 JavaScript | 📅 2026-01-15 - Medium-like rich text editor with a focus on keyboard shortcuts.
