@@ -841,7 +841,7 @@
             "archived": false,
             "id": 62028497,
             "language": "Python",
-            "last_commit": "2026-08-26T06:59:58Z",
+            "last_commit": "2026-08-26T16:03:01Z",
             "owner": "wagtail",
             "repo": "draftjs_exporter",
             "stars": 84
@@ -1053,9 +1053,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:34:59.929Z",
-    "original_repository": "nikgraf/awesome-draft-js",
-    "original_repository_id": 53355489,
+    "last_updated": "2026-08-27T11:38:55.017Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 53355489,
+      "language": null,
+      "last_commit": "2022-05-04T08:19:29Z",
+      "owner": "nikgraf",
+      "repo": "awesome-draft-js",
+      "stars": 2521
+    },
     "original_repository_sha": "f1262ec2efacbdb4ca3da3a7d386b55e4911572f",
     "enhanced_repository": "enhansome/enhansome-draft-js",
     "enhanced_repository_description": null,
