@@ -92,7 +92,7 @@
 * [Draft Convert](https://github.com/HubSpot/draft-convert) ⭐ 478 | 🐛 81 | 🌐 JavaScript | 📅 2023-02-25 - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) ⭐ 390 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-24 - A React Native render for Draft.js model.
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) ⭐ 325 | 🐛 65 | 🌐 JavaScript | 📅 2024-02-09 - Library for generating HTML for DraftJS editor content.
-* [DraftJS Utils](https://github.com/jpuri/draftjs-utils) ⭐ 285 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-04 - Set of utility functions for DraftJS.
+* [DraftJS Utils](https://github.com/jpuri/draftjs-utils) ⭐ 286 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-04 - Set of utility functions for DraftJS.
 * [Redraft](https://github.com/lokiuz/redraft) ⭐ 281 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-04 - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
 * [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) ⭐ 163 | 🐛 74 | 🌐 HTML | 📅 2023-01-10 - Convert plain HTML to DraftJS Editor content.
 * [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) ⭐ 84 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - Library to convert Draft.js raw ContentState to HTML
@@ -154,4 +154,4 @@ To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
