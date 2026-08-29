@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Draft.js resources",
+            "homepage": null,
             "id": 53355489,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-04T08:19:29Z",
+            "open_issues": 0,
             "owner": "nikgraf",
             "repo": "awesome-draft-js",
-            "stars": 2521
+            "stars": 2521,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "draft-js",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -26,12 +36,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Draft.js resources",
+            "homepage": null,
             "id": 53355489,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-04T08:19:29Z",
+            "open_issues": 0,
             "owner": "nikgraf",
             "repo": "awesome-draft-js",
-            "stars": 2521
+            "stars": 2521,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "draft-js",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -42,12 +62,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Draft.js resources",
+            "homepage": null,
             "id": 53355489,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-04T08:19:29Z",
+            "open_issues": 0,
             "owner": "nikgraf",
             "repo": "awesome-draft-js",
-            "stars": 2521
+            "stars": 2521,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "draft-js",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -58,12 +88,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Draft.js resources",
+            "homepage": null,
             "id": 53355489,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-04T08:19:29Z",
+            "open_issues": 0,
             "owner": "nikgraf",
             "repo": "awesome-draft-js",
-            "stars": 2521
+            "stars": 2521,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "draft-js",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -74,12 +114,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Draft.js resources",
+            "homepage": null,
             "id": 53355489,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-04T08:19:29Z",
+            "open_issues": 0,
             "owner": "nikgraf",
             "repo": "awesome-draft-js",
-            "stars": 2521
+            "stars": 2521,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "draft-js",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -90,12 +140,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Draft.js resources",
+            "homepage": null,
             "id": 53355489,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-04T08:19:29Z",
+            "open_issues": 0,
             "owner": "nikgraf",
             "repo": "awesome-draft-js",
-            "stars": 2521
+            "stars": 2521,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "draft-js",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -106,12 +166,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Draft.js resources",
+            "homepage": null,
             "id": 53355489,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-04T08:19:29Z",
+            "open_issues": 0,
             "owner": "nikgraf",
             "repo": "awesome-draft-js",
-            "stars": 2521
+            "stars": 2521,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "draft-js",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -122,12 +192,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Draft.js resources",
+            "homepage": null,
             "id": 53355489,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-04T08:19:29Z",
+            "open_issues": 0,
             "owner": "nikgraf",
             "repo": "awesome-draft-js",
-            "stars": 2521
+            "stars": 2521,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "draft-js",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         }
@@ -144,12 +224,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg",
+            "homepage": null,
             "id": 67361765,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-01T09:52:19Z",
+            "open_issues": 752,
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6467
+            "stars": 6467,
+            "topics": [
+              "draft-js",
+              "javascript",
+              "reactjs",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -160,12 +250,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "美观易用的React富文本编辑器，基于draft-js开发",
+            "homepage": null,
             "id": 99996585,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-19T02:15:52Z",
+            "open_issues": 409,
             "owner": "margox",
             "repo": "braft-editor",
-            "stars": 4587
+            "stars": 4587,
+            "topics": [
+              "draft-js",
+              "react",
+              "rich",
+              "rich-text-editor",
+              "wysiwyg",
+              "wysiwyg-js-editor"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -176,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure React rich text WYSIWYG editor based on draft-js.",
+            "homepage": "https://react-rte.org",
             "id": 52491102,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-05-17T17:02:20Z",
+            "open_issues": 205,
             "owner": "sstur",
             "repo": "react-rte",
-            "stars": 2863
+            "stars": 2863,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -192,12 +299,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts.",
+            "homepage": "https://bitwiser.in/medium-draft/",
             "id": 56425325,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-15T12:31:51Z",
+            "open_issues": 51,
             "owner": "brijeshb42",
             "repo": "medium-draft",
-            "stars": 1715
+            "stars": 1715,
+            "topics": [
+              "draft-js",
+              "editor",
+              "medium-editor",
+              "rich-text-editor"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -208,12 +325,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Megadraft is a Rich Text editor built on top of Facebook's Draft.JS featuring a nice default base of components and extensibility",
+            "homepage": "http://megadraft.io",
             "id": 54509932,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-13T18:03:59Z",
+            "open_issues": 25,
             "owner": "globocom",
             "repo": "megadraft",
-            "stars": 1223
+            "stars": 1223,
+            "topics": [
+              "contenteditable",
+              "draft-js",
+              "editor",
+              "hacktoberfest",
+              "javascript",
+              "megadraft",
+              "react",
+              "reactjs",
+              "rich-text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -224,12 +358,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A complete rewrite of dante editor in draft-js",
+            "homepage": "https://michelson.github.io/dante2/",
             "id": 69834307,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-24T04:01:47Z",
+            "open_issues": 55,
             "owner": "michelson",
             "repo": "dante2",
-            "stars": 911
+            "stars": 911,
+            "topics": [
+              "draft-js",
+              "medium",
+              "reactjs",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -240,12 +384,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝🍸 A configurable rich text editor built with Draft.js",
+            "homepage": "https://www.draftail.org/",
             "id": 73479510,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T15:27:46Z",
+            "open_issues": 32,
             "owner": "wagtail",
             "repo": "draftail",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "draft-js",
+              "editor",
+              "react",
+              "wagtail",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -256,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Draft-JS experiments with drag&drop, resizing, tooltips, WIP",
+            "homepage": "https://draft-wysiwyg.herokuapp.com/",
             "id": 52602119,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-04T10:21:05Z",
+            "open_issues": 15,
             "owner": "bkniffler",
             "repo": "draft-wysiwyg",
-            "stars": 448
+            "stars": 448,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -272,12 +432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React rich text editor built using Draft.js. Similar to Facebook Notes editor",
+            "homepage": null,
             "id": 53353853,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-22T21:58:08Z",
+            "open_issues": 2,
             "owner": "andrewcoelho",
             "repo": "react-text-editor",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -288,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":pen: a Draft.js editor",
+            "homepage": null,
             "id": 75240156,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-08T11:30:16Z",
+            "open_issues": 9,
             "owner": "ld-x",
             "repo": "last-draft",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -304,12 +474,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online Z-notations Editor with Prosemirror and React.js",
+            "homepage": "https://z-editor.github.io/",
             "id": 99365205,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-12T08:29:29Z",
+            "open_issues": 5,
             "owner": "Z-Editor",
             "repo": "Z-Editor",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "formal",
+              "methods",
+              "prosemirror",
+              "reactjs",
+              "z-notations"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -320,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A rich text editor built using draft js",
+            "homepage": "http://alastairtaft.github.io/draft-js-editor/",
             "id": 52714003,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-20T22:24:53Z",
+            "open_issues": 0,
             "owner": "AlastairTaft",
             "repo": "draft-js-editor",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         }
@@ -347,12 +533,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DraftJS plugin for supporting Markdown syntax shortcuts",
+                "homepage": "https://ngs.github.io/draft-js-markdown-shortcuts-plugin/",
                 "id": 75265088,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-05-19T22:04:45Z",
+                "open_issues": 17,
                 "owner": "ngs",
                 "repo": "draft-js-markdown-shortcuts-plugin",
-                "stars": 275
+                "stars": 275,
+                "topics": [
+                  "draft-js",
+                  "draftjs-plugin",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -363,12 +558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "last draft draft-js plugins",
+                "homepage": null,
                 "id": 85827497,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T11:19:56Z",
+                "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -379,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "last draft draft-js plugins",
+                "homepage": null,
                 "id": 85827497,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T11:19:56Z",
+                "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -395,12 +600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "last draft draft-js plugins",
+                "homepage": null,
                 "id": 85827497,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T11:19:56Z",
+                "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -411,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "last draft draft-js plugins",
+                "homepage": null,
                 "id": 85827497,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T11:19:56Z",
+                "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -427,12 +642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "last draft draft-js plugins",
+                "homepage": null,
                 "id": 85827497,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T11:19:56Z",
+                "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -443,12 +663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "last draft draft-js plugins",
+                "homepage": null,
                 "id": 85827497,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T11:19:56Z",
+                "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -459,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "last draft draft-js plugins",
+                "homepage": null,
                 "id": 85827497,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T11:19:56Z",
+                "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -475,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "last draft draft-js plugins",
+                "homepage": null,
                 "id": 85827497,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T11:19:56Z",
+                "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -491,12 +726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "last draft draft-js plugins",
+                "homepage": null,
                 "id": 85827497,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T11:19:56Z",
+                "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -507,12 +747,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Add syntax highlighting support to your DraftJS editor",
+                "homepage": null,
                 "id": 104352903,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-07-04T14:22:07Z",
+                "open_issues": 6,
                 "owner": "withspectrum",
                 "repo": "draft-js-prism-plugin",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "draft-js",
+                  "draft-js-plugins",
+                  "draftjs",
+                  "draftjs-plugins",
+                  "prism",
+                  "prismjs",
+                  "syntax-highlighting"
+                ]
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -523,12 +776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Restrict a draft-js editor to a single line of input.",
+                "homepage": null,
                 "id": 59990942,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-04T04:08:48Z",
+                "open_issues": 7,
                 "owner": "icelab",
                 "repo": "draft-js-single-line-plugin",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -539,12 +797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin for draft-js that allows you to break out of block types as you type.",
+                "homepage": null,
                 "id": 60672465,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-10T12:25:03Z",
+                "open_issues": 2,
                 "owner": "icelab",
                 "repo": "draft-js-block-breakout-plugin",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -555,12 +818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin for adding rich formatting controls - https://jasonphillips.github.io/draft-js-richbuttons-plugin/",
+                "homepage": null,
                 "id": 61332328,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-09-17T14:08:03Z",
+                "open_issues": 6,
                 "owner": "jasonphillips",
                 "repo": "draft-js-richbuttons-plugin",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -571,12 +839,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Katex plugin for DraftJS.",
+                "homepage": "https://letranloc.github.io/draft-js-katex-plugin?down=0",
                 "id": 84945745,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-10-05T15:31:22Z",
+                "open_issues": 7,
                 "owner": "letranloc",
                 "repo": "draft-js-katex-plugin",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "draft-js",
+                  "draftjs-plugin",
+                  "katex",
+                  "katex-plugin",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -587,12 +866,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 Better lists for Draft.js",
+                "homepage": "https://draft-js-list-plugin.samuelmeuli.com",
                 "id": 204336848,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-07-18T03:47:04Z",
+                "open_issues": 3,
                 "owner": "samuelmeuli",
                 "repo": "draft-js-list-plugin",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "draft-js",
+                  "draft-js-plugins",
+                  "react",
+                  "text-editor"
+                ]
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -603,12 +892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin to edit math using (La)TeX (rendered by mathjax) inside draft-js(-editor-plugin). Demo:",
+                "homepage": "https://efloti.github.io/draft-js-mathjax-plugin/",
                 "id": 103538598,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-05-09T17:01:17Z",
+                "open_issues": 0,
                 "owner": "tarjei",
                 "repo": "draft-js-mathjax-plugin",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             },
@@ -619,24 +913,41 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom DraftJS Plugins",
+                "homepage": null,
                 "id": 108374479,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-01-18T15:31:42Z",
+                "open_issues": 1,
                 "owner": "simsim0709",
                 "repo": "draft-js-plugins",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
             }
           ],
           "repo_info": {
             "archived": true,
+            "description": "React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers",
+            "homepage": "https://www.draft-js-plugins.com/",
             "id": 52595230,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-18T00:40:25Z",
+            "open_issues": 17,
             "owner": "draft-js-plugins",
             "repo": "draft-js-plugins",
-            "stars": 4090
+            "stars": 4090,
+            "topics": [
+              "draft-js",
+              "draft-js-plugins",
+              "hashtags",
+              "mentions",
+              "react",
+              "stickers"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -647,12 +958,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code highlighting for DraftJS using Prism",
+            "homepage": "http://samypesse.github.io/draft-js-prism/",
             "id": 59672823,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-05T12:46:59Z",
+            "open_issues": 7,
             "owner": "SamyPesse",
             "repo": "draft-js-prism",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -663,12 +979,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Typeaheads for Draft.js inspired by Facebook.com 🔭",
+            "homepage": null,
             "id": 54751168,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-23T18:24:46Z",
+            "open_issues": 4,
             "owner": "dooly-ai",
             "repo": "draft-js-typeahead",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "draftjs",
+              "facebook",
+              "typeahead"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -679,12 +1004,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build extensible Draft.js editors with configurable plugins and integrated serialization.",
+            "homepage": null,
             "id": 63554433,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-25T23:23:21Z",
+            "open_issues": 19,
             "owner": "HubSpot",
             "repo": "draft-extend",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "draft",
+              "draft-js",
+              "javascript",
+              "react",
+              "rich-text-editor"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -695,12 +1031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of utilities to make code blocks edition easy in DraftJS",
+            "homepage": "http://samypesse.github.io/draft-js-code/",
             "id": 60646462,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-22T02:35:52Z",
+            "open_issues": 14,
             "owner": "SamyPesse",
             "repo": "draft-js-code",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -711,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic HTML editor using draft.js - html in, html out",
+            "homepage": null,
             "id": 52556659,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-10-24T04:10:38Z",
+            "open_issues": 9,
             "owner": "dburrows",
             "repo": "draft-js-basic-html-editor",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -727,12 +1073,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible helpers for draft.js",
+            "homepage": "https://yozhikm.github.io/draft-regex/",
             "id": 116245998,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-06-02T23:54:01Z",
+            "open_issues": 9,
             "owner": "YozhikM",
             "repo": "draft-regex",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "draft-js"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -743,12 +1096,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reusable React.js component that compliments Draft.js with a line number gutter.",
+            "homepage": "http://seejamescode.github.io/draft-js-gutter/",
             "id": 52582991,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-02-28T04:32:34Z",
+            "open_issues": 0,
             "owner": "seejamescode",
             "repo": "draft-js-gutter",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -759,12 +1117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for annotating texts using Draft.js",
+            "homepage": null,
             "id": 93099883,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-13T01:10:40Z",
+            "open_issues": 0,
             "owner": "cltk",
             "repo": "annotations",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         }
@@ -781,12 +1144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DraftJS: import/export ContentState to and from HTML/Markdown",
+            "homepage": null,
             "id": 53662560,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-03-22T18:46:33Z",
+            "open_issues": 109,
             "owner": "sstur",
             "repo": "draft-js-utils",
-            "stars": 881
+            "stars": 881,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -797,12 +1165,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensibly serialize & deserialize Draft.js ContentState with HTML.",
+            "homepage": null,
             "id": 62980900,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-25T23:23:33Z",
+            "open_issues": 81,
             "owner": "HubSpot",
             "repo": "draft-convert",
-            "stars": 478
+            "stars": 478,
+            "topics": [
+              "draft",
+              "draft-js",
+              "javascript",
+              "react",
+              "rich-text-editor"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -813,12 +1192,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Native render for draft.js model",
+            "homepage": null,
             "id": 84114781,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-24T19:29:15Z",
+            "open_issues": 11,
             "owner": "globocom",
             "repo": "react-native-draftjs-render",
-            "stars": 390
+            "stars": 390,
+            "topics": [
+              "draft-js",
+              "draftjs",
+              "react-native",
+              "reactnative"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -829,12 +1218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for converting Draftjs editor content state to HTML",
+            "homepage": null,
             "id": 62619906,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-09T13:33:58Z",
+            "open_issues": 65,
             "owner": "jpuri",
             "repo": "draftjs-to-html",
-            "stars": 325
+            "stars": 325,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -845,12 +1239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An collection of useful utility functions for DraftJS.",
+            "homepage": null,
             "id": 61346702,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T21:37:50Z",
+            "open_issues": 39,
             "owner": "jpuri",
             "repo": "draftjs-utils",
-            "stars": 286
+            "stars": 286,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -861,12 +1260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Renders the result of Draft.js convertToRaw using provided callbacks, works well with React",
+            "homepage": "https://lokiuz.github.io/redraft/",
             "id": 53794948,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T02:40:57Z",
+            "open_issues": 47,
             "owner": "lokiuz",
             "repo": "redraft",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -877,12 +1281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 76675496,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-01-10T23:30:57Z",
+            "open_issues": 74,
             "owner": "jpuri",
             "repo": "html-to-draftjs",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -893,12 +1302,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert Draft.js ContentState to HTML",
+            "homepage": "https://wagtail.github.io/draftjs_exporter/",
             "id": 62028497,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:03:01Z",
+            "open_issues": 4,
             "owner": "wagtail",
             "repo": "draftjs_exporter",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "draft-js",
+              "draftail",
+              "draftjs-exporter",
+              "exporter",
+              "python",
+              "rich-text"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -909,12 +1330,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Filter Draft.js content to preserve only the formatting you allow",
+            "homepage": "https://thibaudcolas.github.io/draftjs-filters",
             "id": 114196732,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T20:27:22Z",
+            "open_issues": 4,
             "owner": "thibaudcolas",
             "repo": "draftjs-filters",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "draft-js",
+              "draftjs-utils",
+              "rte",
+              "wagtail",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -925,12 +1357,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple function to turn a Draft.js RawDraftContentBlock into a marked-up string.",
+            "homepage": null,
             "id": 52341496,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-02-23T08:23:52Z",
+            "open_issues": 1,
             "owner": "evanc",
             "repo": "backdraft-js",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -941,12 +1378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export content from draft-js into an abstract syntax tree.",
+            "homepage": null,
             "id": 57362630,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-04T04:08:46Z",
+            "open_issues": 4,
             "owner": "icelab",
             "repo": "draft-js-ast-exporter",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -957,12 +1399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module to export and format the content from the React Draft.js framework.",
+            "homepage": null,
             "id": 53513671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-21T20:49:06Z",
+            "open_issues": 1,
             "owner": "rkpasia",
             "repo": "draft-js-exporter",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -973,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combine multiple decorators for DraftJS",
+            "homepage": null,
             "id": 59664819,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-01-16T15:52:26Z",
+            "open_issues": 2,
             "owner": "SamyPesse",
             "repo": "draft-js-multidecorators",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -989,12 +1441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a Draft.Decorator simply, with more flexibility than Draft.CompositeDecorator",
+            "homepage": null,
             "id": 60839171,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-02-13T09:16:32Z",
+            "open_issues": 1,
             "owner": "Soreine",
             "repo": "draft-js-simpledecorator",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -1005,12 +1462,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Draft.js exporter for Go",
+            "homepage": null,
             "id": 81096940,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-06-08T21:18:32Z",
+            "open_issues": 11,
             "owner": "ejilay",
             "repo": "draftjs",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "draft",
+              "draft-exporter",
+              "draft-js",
+              "draftjs-exporter",
+              "draftjs-utils",
+              "draftsjs",
+              "go",
+              "golang",
+              "html"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -1021,12 +1493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export Draft.js content state into HTML.",
+            "homepage": null,
             "id": 61576481,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2019-04-11T16:50:08Z",
+            "open_issues": 2,
             "owner": "ignitionworks",
             "repo": "draftjs_exporter",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -1037,12 +1514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allows you to import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.",
+            "homepage": null,
             "id": 59251823,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-04T04:08:45Z",
+            "open_issues": 5,
             "owner": "icelab",
             "repo": "draft-js-ast-importer",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -1053,12 +1535,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DraftJS: export ContentState to PdfMake content object",
+            "homepage": null,
             "id": 103419313,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2020-08-04T19:23:21Z",
+            "open_issues": 6,
             "owner": "datagenno",
             "repo": "draft-js-export-pdfmake",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "draft-js",
+              "pdfmake",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -1069,12 +1560,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your favourite sticky note manager ",
+            "homepage": null,
             "id": 130838810,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-06-19T10:48:56Z",
+            "open_issues": 1,
             "owner": "nadunindunil",
             "repo": "sticky",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "draft-js",
+              "nedb",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         }
@@ -1091,12 +1591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Samples for Draftjs",
+            "homepage": "https://draft-js-samples.now.sh",
             "id": 81308369,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2017-09-12T07:36:56Z",
+            "open_issues": 3,
             "owner": "Mair",
             "repo": "react-meetup-draftjs",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         },
@@ -1107,12 +1612,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a drag and drop example for draft-js editor by react-dnd",
+            "homepage": null,
             "id": 76433636,
             "language": null,
+            "license": null,
             "last_commit": "2018-01-26T03:06:00Z",
+            "open_issues": 0,
             "owner": "jan4984",
             "repo": "draft-dnd-example",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "dnd",
+              "draft-js"
+            ]
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
         }
@@ -1121,15 +1634,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:33:14.255Z",
+    "last_updated": "2026-08-29T04:23:25.737Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of Draft.js resources",
+      "homepage": null,
       "id": 53355489,
       "language": null,
+      "license": null,
       "last_commit": "2022-05-04T08:19:29Z",
+      "open_issues": 0,
       "owner": "nikgraf",
       "repo": "awesome-draft-js",
-      "stars": 2521
+      "stars": 2521,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "draft-js",
+        "list"
+      ]
     },
     "original_repository_sha": "f1262ec2efacbdb4ca3da3a7d386b55e4911572f",
     "enhanced_repository": "enhansome/enhansome-draft-js",
