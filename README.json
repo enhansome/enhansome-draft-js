@@ -233,7 +233,7 @@
             "open_issues": 752,
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6465,
+            "stars": 6464,
             "topics": [
               "draft-js",
               "javascript",
@@ -1307,8 +1307,8 @@
             "id": 62028497,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T16:03:01Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-03T13:10:56Z",
+            "open_issues": 5,
             "owner": "wagtail",
             "repo": "draftjs_exporter",
             "stars": 84,
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:48:07.362Z",
+    "last_updated": "2026-09-03T16:37:34.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
