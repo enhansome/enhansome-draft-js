@@ -259,7 +259,7 @@
             "open_issues": 409,
             "owner": "margox",
             "repo": "braft-editor",
-            "stars": 4583,
+            "stars": 4582,
             "topics": [
               "draft-js",
               "react",
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T17:52:13.728Z",
+    "last_updated": "2026-09-08T16:48:11.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
