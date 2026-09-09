@@ -4,14 +4,14 @@
 
 **Table of Contents**
 
-* [Community](https://github.com/nikgraf/awesome-draft-js#community) ⭐ 2,521 | 🐛 0 | 📅 2022-05-04
-* [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations) ⭐ 2,521 | 🐛 0 | 📅 2022-05-04
-* [Projects on Top of Draft.js](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs) ⭐ 2,521 | 🐛 0 | 📅 2022-05-04
-* [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities) ⭐ 2,521 | 🐛 0 | 📅 2022-05-04
-* [Blog Posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles) ⭐ 2,521 | 🐛 0 | 📅 2022-05-04
-* [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos) ⭐ 2,521 | 🐛 0 | 📅 2022-05-04
-* [Usage in Production](https://github.com/nikgraf/awesome-draft-js#usage-in-production) ⭐ 2,521 | 🐛 0 | 📅 2022-05-04
-* [License](https://github.com/nikgraf/awesome-draft-js#license) ⭐ 2,521 | 🐛 0 | 📅 2022-05-04
+* [Community](https://github.com/nikgraf/awesome-draft-js#community) ⭐ 2,520 | 🐛 0 | 📅 2022-05-04
+* [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations) ⭐ 2,520 | 🐛 0 | 📅 2022-05-04
+* [Projects on Top of Draft.js](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs) ⭐ 2,520 | 🐛 0 | 📅 2022-05-04
+* [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities) ⭐ 2,520 | 🐛 0 | 📅 2022-05-04
+* [Blog Posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles) ⭐ 2,520 | 🐛 0 | 📅 2022-05-04
+* [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos) ⭐ 2,520 | 🐛 0 | 📅 2022-05-04
+* [Usage in Production](https://github.com/nikgraf/awesome-draft-js#usage-in-production) ⭐ 2,520 | 🐛 0 | 📅 2022-05-04
+* [License](https://github.com/nikgraf/awesome-draft-js#license) ⭐ 2,520 | 🐛 0 | 📅 2022-05-04
 
 ## Community
 
@@ -28,11 +28,11 @@
 
 ## Standalone Editors Built on Draft.js
 
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,463 | 🐛 752 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,462 | 🐛 752 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Braft](https://github.com/margox/braft-editor) ⭐ 4,582 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
-* [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,862 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
+* [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,861 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) ⭐ 1,715 | 🐛 51 | 🌐 JavaScript | 📅 2026-01-15 - Medium-like rich text editor with a focus on keyboard shortcuts.
-* [Megadraft](https://github.com/globocom/megadraft) ⭐ 1,223 | 🐛 25 | 🌐 JavaScript | 📅 2025-11-13 - A rich text editor with a nice default base of plugins and extensibility.
+* [Megadraft](https://github.com/globocom/megadraft) ⭐ 1,222 | 🐛 25 | 🌐 JavaScript | 📅 2025-11-13 - A rich text editor with a nice default base of plugins and extensibility.
 * [Dante 2](https://github.com/michelson/dante2) ⚠️ Archived - Just another Medium clone built on top of DraftJs.
 * [Draftail](https://github.com/springload/draftail/) ⭐ 632 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-23 -  A configurable rich text editor based on Draft.js, built for Wagtail.
 * [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) ⭐ 448 | 🐛 15 | 🌐 JavaScript | 📅 2017-01-04 - WYSIWYG editor that with drag\&drop, resizing & tooltips.
@@ -44,16 +44,16 @@
 ## Plugins and Decorators Built for Draft.js
 
 * [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) ⚠️ Archived - A Plugin architecture on top of Draft.js
-  * [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) ⭐ 275 | 🐛 17 | 🌐 JavaScript | 📅 2021-05-19 - Markdown syntax shortcuts.
-  * [Buttons](https://github.com/vacenz/last-draft-js-plugins) ⭐ 95 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
-  * [Color Picker](https://github.com/vacenz/last-draft-js-plugins) ⭐ 95 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
-  * [Embed](https://github.com/vacenz/last-draft-js-plugins) ⭐ 95 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
-  * [EmojiPicker](https://github.com/vacenz/last-draft-js-plugins) ⭐ 95 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
-  * [GifPicker](https://github.com/vacenz/last-draft-js-plugins) ⭐ 95 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
-  * [Link](https://github.com/vacenz/last-draft-js-plugins) ⭐ 95 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
-  * [Modal](https://github.com/vacenz/last-draft-js-plugins) ⭐ 95 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
-  * [Sidebar](https://github.com/vacenz/last-draft-js-plugins) ⭐ 95 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
-  * [Toolbar](https://github.com/vacenz/last-draft-js-plugins) ⭐ 95 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
+  * [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) ⭐ 274 | 🐛 17 | 🌐 JavaScript | 📅 2021-05-19 - Markdown syntax shortcuts.
+  * [Buttons](https://github.com/vacenz/last-draft-js-plugins) ⭐ 94 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
+  * [Color Picker](https://github.com/vacenz/last-draft-js-plugins) ⭐ 94 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
+  * [Embed](https://github.com/vacenz/last-draft-js-plugins) ⭐ 94 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
+  * [EmojiPicker](https://github.com/vacenz/last-draft-js-plugins) ⭐ 94 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
+  * [GifPicker](https://github.com/vacenz/last-draft-js-plugins) ⭐ 94 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
+  * [Link](https://github.com/vacenz/last-draft-js-plugins) ⭐ 94 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
+  * [Modal](https://github.com/vacenz/last-draft-js-plugins) ⭐ 94 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
+  * [Sidebar](https://github.com/vacenz/last-draft-js-plugins) ⭐ 94 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
+  * [Toolbar](https://github.com/vacenz/last-draft-js-plugins) ⭐ 94 | 🐛 11 | 🌐 JavaScript | 📅 2018-04-13
   * [Prism](https://github.com/withspectrum/draft-js-prism-plugin) ⚠️ Archived - Syntax highlight code blocks with Prism.
   * [Single Line](https://github.com/icelab/draft-js-single-line-plugin) ⭐ 43 | 🐛 7 | 🌐 JavaScript | 📅 2022-12-04 - Restrict to a single line of input.
   * [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) ⭐ 40 | 🐛 2 | 🌐 JavaScript | 📅 2018-10-10 - Break out of block types as you type.
@@ -77,9 +77,9 @@
   * [Sticker](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
   * [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
   * [Video](https://www.draft-js-plugins.com/plugin/video)
-* [Draft.js Prism](https://github.com/SamyPesse/draft-js-prism) ⭐ 272 | 🐛 7 | 🌐 JavaScript | 📅 2021-04-05- Highlight code blocks using Prism.
+* [Draft.js Prism](https://github.com/SamyPesse/draft-js-prism) ⭐ 271 | 🐛 7 | 🌐 JavaScript | 📅 2021-04-05- Highlight code blocks using Prism.
 * [Draft.js Typeahead](https://github.com/dooly-ai/draft-js-typeahead) ⚠️ Archived - Support for typeahead functionality.
-* [Draft Extend](https://github.com/HubSpot/draft-extend) ⭐ 114 | 🐛 19 | 🌐 JavaScript | 📅 2023-02-25 - Build extensible Draft.js editors with configurable plugins and integrated serialization.
+* [Draft Extend](https://github.com/HubSpot/draft-extend) ⭐ 113 | 🐛 19 | 🌐 JavaScript | 📅 2023-02-25 - Build extensible Draft.js editors with configurable plugins and integrated serialization.
 * [Draft.js Code](https://github.com/SamyPesse/draft-js-code) ⭐ 108 | 🐛 14 | 🌐 JavaScript | 📅 2018-03-22 - A collection of low-level utilities for nicer code editing
 * [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) ⭐ 87 | 🐛 9 | 🌐 JavaScript | 📅 2020-10-24 - Accept html as its input format, and return html to an onChange.
 * [Draft.js Regex](https://github.com/YozhikM/draft-regex) ⭐ 19 | 🐛 9 | 🌐 JavaScript | 📅 2020-06-02 - The set of flexible helpers, like regex, blank lines preventing and pasted HTML clearing.
@@ -88,8 +88,8 @@
 
 ## Common Utilities
 
-* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) ⭐ 881 | 🐛 109 | 🌐 JavaScript | 📅 2023-03-22 - Export ContentState to HTML.
-* [Draft Convert](https://github.com/HubSpot/draft-convert) ⭐ 478 | 🐛 81 | 🌐 JavaScript | 📅 2023-02-25 - Extensibly serialize & deserialize Draft.js ContentState with HTML.
+* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) ⭐ 880 | 🐛 109 | 🌐 JavaScript | 📅 2023-03-22 - Export ContentState to HTML.
+* [Draft Convert](https://github.com/HubSpot/draft-convert) ⭐ 477 | 🐛 81 | 🌐 JavaScript | 📅 2023-02-25 - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) ⭐ 390 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-24 - A React Native render for Draft.js model.
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) ⭐ 325 | 🐛 65 | 🌐 JavaScript | 📅 2024-02-09 - Library for generating HTML for DraftJS editor content.
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) ⭐ 286 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-04 - Set of utility functions for DraftJS.
@@ -154,4 +154,4 @@ To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
