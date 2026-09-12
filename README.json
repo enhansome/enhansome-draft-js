@@ -1307,8 +1307,8 @@
             "id": 62028497,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T13:28:46Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-11T22:51:50Z",
+            "open_issues": 3,
             "owner": "wagtail",
             "repo": "draftjs_exporter",
             "stars": 84,
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:41:51.049Z",
+    "last_updated": "2026-09-12T15:45:23.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
