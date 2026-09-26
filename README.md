@@ -30,7 +30,7 @@
 
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,461 | 🐛 751 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Braft](https://github.com/margox/braft-editor) ⭐ 4,582 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
-* [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,860 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
+* [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,859 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) ⭐ 1,715 | 🐛 51 | 🌐 JavaScript | 📅 2026-01-15 - Medium-like rich text editor with a focus on keyboard shortcuts.
 * [Megadraft](https://github.com/globocom/megadraft) ⭐ 1,221 | 🐛 25 | 🌐 JavaScript | 📅 2025-11-13 - A rich text editor with a nice default base of plugins and extensibility.
 * [Dante 2](https://github.com/michelson/dante2) ⚠️ Archived - Just another Medium clone built on top of DraftJs.
@@ -154,4 +154,4 @@ To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
