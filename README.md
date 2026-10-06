@@ -28,7 +28,7 @@
 
 ## Standalone Editors Built on Draft.js
 
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,459 | 🐛 750 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,457 | 🐛 750 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Braft](https://github.com/margox/braft-editor) ⭐ 4,582 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
 * [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,858 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) ⭐ 1,715 | 🐛 51 | 🌐 JavaScript | 📅 2026-01-15 - Medium-like rich text editor with a focus on keyboard shortcuts.
@@ -89,13 +89,13 @@
 ## Common Utilities
 
 * [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) ⭐ 880 | 🐛 109 | 🌐 JavaScript | 📅 2023-03-22 - Export ContentState to HTML.
-* [Draft Convert](https://github.com/HubSpot/draft-convert) ⭐ 477 | 🐛 81 | 🌐 JavaScript | 📅 2023-02-25 - Extensibly serialize & deserialize Draft.js ContentState with HTML.
+* [Draft Convert](https://github.com/HubSpot/draft-convert) ⭐ 476 | 🐛 81 | 🌐 JavaScript | 📅 2023-02-25 - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) ⭐ 390 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-24 - A React Native render for Draft.js model.
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) ⭐ 325 | 🐛 65 | 🌐 JavaScript | 📅 2024-02-09 - Library for generating HTML for DraftJS editor content.
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) ⭐ 286 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-04 - Set of utility functions for DraftJS.
 * [Redraft](https://github.com/lokiuz/redraft) ⭐ 281 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-04 - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
 * [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) ⭐ 163 | 🐛 73 | 🌐 HTML | 📅 2023-01-10 - Convert plain HTML to DraftJS Editor content.
-* [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) ⭐ 84 | 🐛 1 | 🌐 Python | 📅 2026-10-05 - Library to convert Draft.js raw ContentState to HTML
+* [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) ⭐ 83 | 🐛 1 | 🌐 Python | 📅 2026-10-05 - Library to convert Draft.js raw ContentState to HTML
 * [Draft.js filters](https://github.com/thibaudcolas/draftjs-filters) ⭐ 56 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-10 - Filter Draft.js content to preserve only the formatting you allow.
 * [BackDraft.js](https://github.com/evanc/backdraft-js) ⚠️ Archived - Function to turn a rawContentBlock into a marked-up string.
 * [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-04 - Export content into an abstract syntax tree (AST).

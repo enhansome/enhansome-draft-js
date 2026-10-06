@@ -19,7 +19,7 @@
             "open_issues": 750,
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6459,
+            "stars": 6457,
             "topics": [
               "draft-js",
               "javascript",
@@ -960,7 +960,7 @@
             "open_issues": 81,
             "owner": "HubSpot",
             "repo": "draft-convert",
-            "stars": 477,
+            "stars": 476,
             "topics": [
               "draft",
               "draft-js",
@@ -1097,7 +1097,7 @@
             "open_issues": 1,
             "owner": "wagtail",
             "repo": "draftjs_exporter",
-            "stars": 84,
+            "stars": 83,
             "topics": [
               "draft-js",
               "draftail",
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:13:26.646Z",
+    "last_updated": "2026-10-06T18:33:19.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
