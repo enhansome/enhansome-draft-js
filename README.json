@@ -19,7 +19,7 @@
             "open_issues": 750,
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6458,
+            "stars": 6459,
             "topics": [
               "draft-js",
               "javascript",
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T20:58:14.444Z",
+    "last_updated": "2026-10-06T10:13:26.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
