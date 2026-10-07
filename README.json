@@ -153,7 +153,7 @@
             "open_issues": 55,
             "owner": "michelson",
             "repo": "dante2",
-            "stars": 911,
+            "stars": 910,
             "topics": [
               "draft-js",
               "medium",
@@ -1093,8 +1093,8 @@
             "id": 62028497,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T19:58:37Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-07T16:02:20Z",
+            "open_issues": 0,
             "owner": "wagtail",
             "repo": "draftjs_exporter",
             "stars": 83,
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:33:19.853Z",
+    "last_updated": "2026-10-07T19:02:46.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
