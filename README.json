@@ -19,7 +19,7 @@
             "open_issues": 750,
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6457,
+            "stars": 6458,
             "topics": [
               "draft-js",
               "javascript",
@@ -73,7 +73,7 @@
             "open_issues": 205,
             "owner": "sstur",
             "repo": "react-rte",
-            "stars": 2859,
+            "stars": 2860,
             "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
@@ -120,7 +120,7 @@
             "open_issues": 25,
             "owner": "globocom",
             "repo": "megadraft",
-            "stars": 1223,
+            "stars": 1224,
             "topics": [
               "contenteditable",
               "draft-js",
@@ -328,7 +328,7 @@
                 "open_issues": 17,
                 "owner": "ngs",
                 "repo": "draft-js-markdown-shortcuts-plugin",
-                "stars": 274,
+                "stars": 275,
                 "topics": [
                   "draft-js",
                   "draftjs-plugin",
@@ -353,7 +353,7 @@
                 "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
@@ -374,7 +374,7 @@
                 "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
@@ -395,7 +395,7 @@
                 "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
@@ -416,7 +416,7 @@
                 "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
@@ -437,7 +437,7 @@
                 "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
@@ -458,7 +458,7 @@
                 "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
@@ -479,7 +479,7 @@
                 "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
@@ -500,7 +500,7 @@
                 "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
@@ -521,7 +521,7 @@
                 "open_issues": 11,
                 "owner": "ld-x",
                 "repo": "last-draft-js-plugins",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:14.255Z"
@@ -725,7 +725,7 @@
             "open_issues": 17,
             "owner": "draft-js-plugins",
             "repo": "draft-js-plugins",
-            "stars": 4086,
+            "stars": 4087,
             "topics": [
               "draft-js",
               "draft-js-plugins",
@@ -753,7 +753,7 @@
             "open_issues": 7,
             "owner": "SamyPesse",
             "repo": "draft-js-prism",
-            "stars": 271,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
@@ -799,7 +799,7 @@
             "open_issues": 19,
             "owner": "HubSpot",
             "repo": "draft-extend",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "draft",
               "draft-js",
@@ -939,7 +939,7 @@
             "open_issues": 109,
             "owner": "sstur",
             "repo": "draft-js-utils",
-            "stars": 880,
+            "stars": 881,
             "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
@@ -960,7 +960,7 @@
             "open_issues": 81,
             "owner": "HubSpot",
             "repo": "draft-convert",
-            "stars": 476,
+            "stars": 477,
             "topics": [
               "draft",
               "draft-js",
@@ -1094,7 +1094,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-07T16:02:20Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "wagtail",
             "repo": "draftjs_exporter",
             "stars": 83,
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:22:22.538Z",
+    "last_updated": "2026-10-13T19:28:14.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
