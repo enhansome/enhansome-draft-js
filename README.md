@@ -30,7 +30,7 @@
 
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,457 | 🐛 750 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Braft](https://github.com/margox/braft-editor) ⭐ 4,576 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
-* [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,859 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
+* [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,859 | 🐛 204 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) ⭐ 1,713 | 🐛 51 | 🌐 JavaScript | 📅 2026-01-15 - Medium-like rich text editor with a focus on keyboard shortcuts.
 * [Megadraft](https://github.com/globocom/megadraft) ⭐ 1,224 | 🐛 25 | 🌐 JavaScript | 📅 2025-11-13 - A rich text editor with a nice default base of plugins and extensibility.
 * [Dante 2](https://github.com/michelson/dante2) ⚠️ Archived - Just another Medium clone built on top of DraftJs.
@@ -38,7 +38,7 @@
 * [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) ⭐ 448 | 🐛 15 | 🌐 JavaScript | 📅 2017-01-04 - WYSIWYG editor that with drag\&drop, resizing & tooltips.
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) ⭐ 230 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-22 - Rich text editor similar to Facebook notes.
 * [Last Draft](https://github.com/vacenz/last-draft) ⭐ 218 | 🐛 9 | 🌐 JavaScript | 📅 2018-03-08 - A Draft editor built with Draft.js plugins.
-* [Z-Editor](https://github.com/Z-Editor/Z-Editor) ⭐ 156 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-12 - Online Z-notations editor.
+* [Z-Editor](https://github.com/Z-Editor/Z-Editor) ⭐ 157 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-12 - Online Z-notations editor.
 * [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) ⚠️ Archived - A Rich text editor inspired by Medium & Facebook Notes.
 
 ## Plugins and Decorators Built for Draft.js
@@ -95,7 +95,7 @@
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) ⭐ 286 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-04 - Set of utility functions for DraftJS.
 * [Redraft](https://github.com/lokiuz/redraft) ⭐ 281 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-04 - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
 * [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) ⭐ 163 | 🐛 73 | 🌐 HTML | 📅 2023-01-10 - Convert plain HTML to DraftJS Editor content.
-* [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) ⭐ 83 | 🐛 6 | 🌐 Python | 📅 2026-10-24 - Library to convert Draft.js raw ContentState to HTML
+* [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) ⭐ 83 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Library to convert Draft.js raw ContentState to HTML
 * [Draft.js filters](https://github.com/thibaudcolas/draftjs-filters) ⭐ 56 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-10 - Filter Draft.js content to preserve only the formatting you allow.
 * [BackDraft.js](https://github.com/evanc/backdraft-js) ⚠️ Archived - Function to turn a rawContentBlock into a marked-up string.
 * [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-04 - Export content into an abstract syntax tree (AST).
@@ -154,4 +154,4 @@ To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
