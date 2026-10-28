@@ -89,7 +89,7 @@
 ## Common Utilities
 
 * [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) ⭐ 881 | 🐛 109 | 🌐 JavaScript | 📅 2023-03-22 - Export ContentState to HTML.
-* [Draft Convert](https://github.com/HubSpot/draft-convert) ⭐ 477 | 🐛 81 | 🌐 JavaScript | 📅 2023-02-25 - Extensibly serialize & deserialize Draft.js ContentState with HTML.
+* [Draft Convert](https://github.com/HubSpot/draft-convert) ⭐ 477 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-28 - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) ⭐ 390 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-24 - A React Native render for Draft.js model.
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) ⭐ 325 | 🐛 65 | 🌐 JavaScript | 📅 2024-02-09 - Library for generating HTML for DraftJS editor content.
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) ⭐ 286 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-04 - Set of utility functions for DraftJS.
@@ -154,4 +154,4 @@ To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
