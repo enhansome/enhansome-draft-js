@@ -73,7 +73,7 @@
             "open_issues": 204,
             "owner": "sstur",
             "repo": "react-rte",
-            "stars": 2859,
+            "stars": 2860,
             "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
@@ -94,7 +94,7 @@
             "open_issues": 51,
             "owner": "brijeshb42",
             "repo": "medium-draft",
-            "stars": 1713,
+            "stars": 1714,
             "topics": [
               "draft-js",
               "editor",
@@ -1093,7 +1093,7 @@
             "id": 62028497,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T13:40:04Z",
+            "last_commit": "2026-10-30T06:48:58Z",
             "open_issues": 6,
             "owner": "wagtail",
             "repo": "draftjs_exporter",
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:36:21.570Z",
+    "last_updated": "2026-10-30T18:08:30.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
