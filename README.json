@@ -725,7 +725,7 @@
             "open_issues": 17,
             "owner": "draft-js-plugins",
             "repo": "draft-js-plugins",
-            "stars": 4085,
+            "stars": 4084,
             "topics": [
               "draft-js",
               "draft-js-plugins",
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:01:58.914Z",
+    "last_updated": "2026-11-02T21:52:43.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
@@ -1432,7 +1432,7 @@
       "open_issues": 0,
       "owner": "nikgraf",
       "repo": "awesome-draft-js",
-      "stars": 2523,
+      "stars": 2524,
       "topics": [
         "awesome",
         "awesome-list",
