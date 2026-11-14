@@ -19,7 +19,7 @@
             "open_issues": 750,
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6454,
+            "stars": 6453,
             "topics": [
               "draft-js",
               "javascript",
@@ -45,7 +45,7 @@
             "open_issues": 409,
             "owner": "margox",
             "repo": "braft-editor",
-            "stars": 4574,
+            "stars": 4573,
             "topics": [
               "draft-js",
               "react",
@@ -73,7 +73,7 @@
             "open_issues": 204,
             "owner": "sstur",
             "repo": "react-rte",
-            "stars": 2860,
+            "stars": 2858,
             "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
@@ -960,7 +960,7 @@
             "open_issues": 53,
             "owner": "HubSpot",
             "repo": "draft-convert",
-            "stars": 478,
+            "stars": 477,
             "topics": [
               "draft",
               "draft-js",
@@ -1055,7 +1055,7 @@
             "open_issues": 47,
             "owner": "lokiuz",
             "repo": "redraft",
-            "stars": 281,
+            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T19:57:28.528Z",
+    "last_updated": "2026-11-14T18:25:01.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
@@ -1432,7 +1432,7 @@
       "open_issues": 0,
       "owner": "nikgraf",
       "repo": "awesome-draft-js",
-      "stars": 2525,
+      "stars": 2524,
       "topics": [
         "awesome",
         "awesome-list",
