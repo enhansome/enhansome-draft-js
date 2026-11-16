@@ -29,7 +29,7 @@
 ## Standalone Editors Built on Draft.js
 
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,453 | 🐛 750 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
-* [Braft](https://github.com/margox/braft-editor) ⭐ 4,573 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
+* [Braft](https://github.com/margox/braft-editor) ⭐ 4,570 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
 * [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,858 | 🐛 204 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) ⭐ 1,714 | 🐛 51 | 🌐 JavaScript | 📅 2026-01-15 - Medium-like rich text editor with a focus on keyboard shortcuts.
 * [Megadraft](https://github.com/globocom/megadraft) ⭐ 1,223 | 🐛 25 | 🌐 JavaScript | 📅 2025-11-13 - A rich text editor with a nice default base of plugins and extensibility.
@@ -94,7 +94,7 @@
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) ⭐ 323 | 🐛 65 | 🌐 JavaScript | 📅 2024-02-09 - Library for generating HTML for DraftJS editor content.
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) ⭐ 286 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-04 - Set of utility functions for DraftJS.
 * [Redraft](https://github.com/lokiuz/redraft) ⭐ 280 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-04 - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
-* [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) ⭐ 162 | 🐛 73 | 🌐 HTML | 📅 2023-01-10 - Convert plain HTML to DraftJS Editor content.
+* [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) ⭐ 162 | 🐛 72 | 🌐 HTML | 📅 2023-01-10 - Convert plain HTML to DraftJS Editor content.
 * [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) ⭐ 83 | 🐛 1 | 🌐 Python | 📅 2026-11-14 - Library to convert Draft.js raw ContentState to HTML
 * [Draft.js filters](https://github.com/thibaudcolas/draftjs-filters) ⭐ 56 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-10 - Filter Draft.js content to preserve only the formatting you allow.
 * [BackDraft.js](https://github.com/evanc/backdraft-js) ⚠️ Archived - Function to turn a rawContentBlock into a marked-up string.
@@ -154,4 +154,4 @@ To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
