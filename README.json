@@ -19,7 +19,7 @@
             "open_issues": 750,
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6452,
+            "stars": 6448,
             "topics": [
               "draft-js",
               "javascript",
@@ -45,7 +45,7 @@
             "open_issues": 409,
             "owner": "margox",
             "repo": "braft-editor",
-            "stars": 4570,
+            "stars": 4569,
             "topics": [
               "draft-js",
               "react",
@@ -73,7 +73,7 @@
             "open_issues": 204,
             "owner": "sstur",
             "repo": "react-rte",
-            "stars": 2858,
+            "stars": 2857,
             "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
@@ -94,7 +94,7 @@
             "open_issues": 51,
             "owner": "brijeshb42",
             "repo": "medium-draft",
-            "stars": 1714,
+            "stars": 1713,
             "topics": [
               "draft-js",
               "editor",
@@ -120,7 +120,7 @@
             "open_issues": 25,
             "owner": "globocom",
             "repo": "megadraft",
-            "stars": 1223,
+            "stars": 1221,
             "topics": [
               "contenteditable",
               "draft-js",
@@ -960,7 +960,7 @@
             "open_issues": 53,
             "owner": "HubSpot",
             "repo": "draft-convert",
-            "stars": 477,
+            "stars": 476,
             "topics": [
               "draft",
               "draft-js",
@@ -1093,8 +1093,8 @@
             "id": 62028497,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T23:52:07Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-18T22:09:06Z",
+            "open_issues": 2,
             "owner": "wagtail",
             "repo": "draftjs_exporter",
             "stars": 83,
@@ -1215,7 +1215,7 @@
             "open_issues": 2,
             "owner": "SamyPesse",
             "repo": "draft-js-multidecorators",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T22:33:14.255Z"
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:49:48.038Z",
+    "last_updated": "2026-11-19T20:54:28.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Draft.js resources",
