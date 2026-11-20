@@ -28,7 +28,7 @@
 
 ## Standalone Editors Built on Draft.js
 
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,448 | 🐛 750 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,449 | 🐛 750 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Braft](https://github.com/margox/braft-editor) ⭐ 4,569 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
 * [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,857 | 🐛 204 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) ⭐ 1,713 | 🐛 51 | 🌐 JavaScript | 📅 2026-01-15 - Medium-like rich text editor with a focus on keyboard shortcuts.
@@ -88,7 +88,7 @@
 
 ## Common Utilities
 
-* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) ⭐ 881 | 🐛 109 | 🌐 JavaScript | 📅 2023-03-22 - Export ContentState to HTML.
+* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) ⭐ 880 | 🐛 109 | 🌐 JavaScript | 📅 2023-03-22 - Export ContentState to HTML.
 * [Draft Convert](https://github.com/HubSpot/draft-convert) ⭐ 476 | 🐛 53 | 🌐 JavaScript | 📅 2026-10-29 - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) ⭐ 390 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-24 - A React Native render for Draft.js model.
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) ⭐ 323 | 🐛 65 | 🌐 JavaScript | 📅 2024-02-09 - Library for generating HTML for DraftJS editor content.
@@ -154,4 +154,4 @@ To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
