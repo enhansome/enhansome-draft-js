@@ -29,7 +29,7 @@
 ## Standalone Editors Built on Draft.js
 
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,448 | 🐛 750 | 🌐 JavaScript | 📅 2024-12-01 - A WYISWYG editor, with various text editing options and corresponding HTML generation.
-* [Braft](https://github.com/margox/braft-editor) ⭐ 4,569 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
+* [Braft](https://github.com/margox/braft-editor) ⭐ 4,568 | 🐛 409 | 🌐 JavaScript | 📅 2024-11-19 - Extensible Draft JS Editor
 * [React-RTE](https://github.com/sstur/react-rte/) ⭐ 2,857 | 🐛 204 | 🌐 JavaScript | 📅 2023-05-17 - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) ⭐ 1,713 | 🐛 51 | 🌐 JavaScript | 📅 2026-01-15 - Medium-like rich text editor with a focus on keyboard shortcuts.
 * [Megadraft](https://github.com/globocom/megadraft) ⭐ 1,221 | 🐛 25 | 🌐 JavaScript | 📅 2025-11-13 - A rich text editor with a nice default base of plugins and extensibility.
@@ -38,7 +38,7 @@
 * [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) ⭐ 448 | 🐛 15 | 🌐 JavaScript | 📅 2017-01-04 - WYSIWYG editor that with drag\&drop, resizing & tooltips.
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) ⭐ 230 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-22 - Rich text editor similar to Facebook notes.
 * [Last Draft](https://github.com/vacenz/last-draft) ⭐ 218 | 🐛 9 | 🌐 JavaScript | 📅 2018-03-08 - A Draft editor built with Draft.js plugins.
-* [Z-Editor](https://github.com/Z-Editor/Z-Editor) ⭐ 157 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-12 - Online Z-notations editor.
+* [Z-Editor](https://github.com/Z-Editor/Z-Editor) ⭐ 155 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-12 - Online Z-notations editor.
 * [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) ⚠️ Archived - A Rich text editor inspired by Medium & Facebook Notes.
 
 ## Plugins and Decorators Built for Draft.js
@@ -88,7 +88,7 @@
 
 ## Common Utilities
 
-* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) ⭐ 880 | 🐛 109 | 🌐 JavaScript | 📅 2023-03-22 - Export ContentState to HTML.
+* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) ⭐ 879 | 🐛 109 | 🌐 JavaScript | 📅 2023-03-22 - Export ContentState to HTML.
 * [Draft Convert](https://github.com/HubSpot/draft-convert) ⭐ 476 | 🐛 53 | 🌐 JavaScript | 📅 2026-10-29 - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) ⭐ 390 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-24 - A React Native render for Draft.js model.
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) ⭐ 323 | 🐛 65 | 🌐 JavaScript | 📅 2024-02-09 - Library for generating HTML for DraftJS editor content.
@@ -154,4 +154,4 @@ To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
